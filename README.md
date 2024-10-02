@@ -1,12 +1,16 @@
 <h1>Data Science Tools and Ecosystem</h1>
+
 In this notebook, Data Science Tools and Ecosystem are summarized.
+
 Some of the popular languages that Data Scientists use are:
+
 <li>python</li>
 <li>R</li>
 <li>julia</li>
 <li>php</li>
 <li>go</li>
 <li>sql</li>
+
 
 <b>Objectives:</b>
 <li>add comments</li>
